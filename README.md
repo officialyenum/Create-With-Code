@@ -30,8 +30,8 @@ Install unity:
 Contribute
 ----------
 
-- Issue Tracker: https://www.github.com/officialyenum/LifeOrDeath/issues
-- Source Code: https://www.github.com/officialyenum/LifeOrDeath
+- Issue Tracker: https://github.com/officialyenum/Create-With-Code/issues
+- Source Code: https://github.com/officialyenum/Create-With-Code
 
 Support
 -------
